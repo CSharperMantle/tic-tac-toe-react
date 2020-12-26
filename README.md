@@ -4,4 +4,4 @@ Simple Tic Tac Toe game using React, built with the help of the [official tutori
 
 Planned features:
 * [x] Draw detection
-* [] Time traveling
+* [ ] Time traveling
